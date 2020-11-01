@@ -1,0 +1,16 @@
+
+.loginhalf{
+    width: 20%;
+    padding: 5%;
+    margin:10% 34% 0 34%;
+    background-color: rgb(255, 255, 255);
+    border:4px solid rgb(11, 191, 236);
+}
+button{
+    margin: 2% 0 2% 0;
+    width: 50%;
+    margin-left: 25%;
+  }
+mat-form-field{
+    width: 100%;
+}
